@@ -56,4 +56,4 @@ While these three personas go some way to generalising the three main types of l
 
 
 ### Bibliography 
-Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. ACM SIGCSE Bulletin, 36(1), 12. http://dx.doi.org/10.1145/1028174.971308
+Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. *ACM SIGCSE Bulletin*, 36(1), 12. http://dx.doi.org/10.1145/1028174.971308
