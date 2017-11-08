@@ -41,3 +41,9 @@ Milestones:
 - Formative and summative assessments to be designed by the start of semester 1, 2018.
 
 #### e. Stakeholders and analysis of learners
+*Learner profiles*
+An analysis of learners' needs could begin with outlining sketches of potential learner personas. There following are descriptions of the kinds of learners typical to the Bachelor of IT, and illustrate their diversity.
+
+Persona 1: Male school leaver or recent IT certificate student, late teens. This kind of student is very interested in computers in general, and often specifically in hardware and gaming. May or may not have any idea what it might be like to be an IT professional. Sometimes this kind of learner is not absolutely sure about whether they want to enter the IT industry, but has elected to study IT because computers are their main hobby. Mostly from the "kiwi" cultural background (i.e. New Zealand European ethnicity) but 1 or 2% are from other ethnic backgrounds, e.g. Maori and Pacific Island, Asian, Middle Eastern cultures.
+
+Persona 2: Mature student coming from the workforce, often with the aim of changing profession. This kind of student is interested in gaining the qualification in an efficient and cost-effective way. They often bring core skills into the classroom, such as communication and organisation skills, which can motivate other students to emulate professional behaviours. Also often come from overseas (at the moment there are mature students from Sweden, Brazil and France).
