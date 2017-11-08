@@ -1,4 +1,4 @@
-# Learning Design for Teaching in a Tertiary Context
+# Learning Design for Teaching in a Tertiary Context—Elise Allen
 ## Assessment Task 1: The Learning Design Plan
 
 ### Part 1: The learning design context and background
@@ -21,11 +21,18 @@ Despite varying ethnic and social backgrounds (and despite the IT industry being
 The aim of introducing more collaborative, experiential learning into the course is to better prepare learners both for future courses in the degree and for high performance as recent graduates in the workforce.
 
 Objectives:
-- Give learners hands-on experience working together in teams
-- Use real, industry-standard communication and collaboration tools
-- Equip learners with the skills necessary to make decisions and measure their own performance
-- Encourage independent thinking, self-motivation and self-management
+1. Give learners hands-on experience working together in teams
+2. Use real, industry-standard communication and collaboration tools
+3. Equip learners with the skills necessary to make decisions and measure their own performance
+4. Encourage independent thinking, self-motivation and self-management
 
 #### d. Milestones/deliverables
+Objective 1 deliverables: a course schedule that includes two or more team projects which allow learners to practice the skills learnt up to that point in a practical setting.
+
+Objective 2 deliverables: lesson plans to introduce tools such as git and GitLab and the associated professional workflows.
+
+Objective 3 deliverables: formative assessments with peer assessment and self-assessment elements, plus class activities which are flexible enough to allow learners to decide on their own approaches to problems.
+
+Objective 4 deliverables: time-management lesson plan and class activities; a flexible, portfolio-style assessment which rewards independent and critical thinking
 
 #### e. Stakeholders and analysis of learners
