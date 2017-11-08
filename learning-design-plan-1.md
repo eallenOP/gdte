@@ -47,3 +47,13 @@ An analysis of learners' needs could begin with outlining sketches of potential 
 Persona 1: Male school leaver or recent IT certificate student, late teens. This kind of student is very interested in computers in general, and often specifically in hardware and gaming. May or may not have any idea what it might be like to be an IT professional. Sometimes this kind of learner is not absolutely sure about whether they want to enter the IT industry, but has elected to study IT because computers are their main hobby. Mostly from the "kiwi" cultural background (i.e. New Zealand European ethnicity) but 1 or 2% are from other ethnic backgrounds, e.g. Maori and Pacific Island, Asian, Middle Eastern cultures.
 
 Persona 2: Mature student coming from the workforce, often with the aim of changing profession. This kind of student is interested in gaining the qualification in an efficient and cost-effective way. They often bring core skills into the classroom, such as communication and organisation skills, which can motivate other students to emulate professional behaviours. Also often come from overseas (at the moment there are mature students from Sweden, Brazil and France).
+
+Persona 3: Female school leaver, late teens, or female learner coming from other tertiary education, early 20s. While females are a conspicuous minority in the IT classroom, female learners often make up for this by bringing a slightly higher level of emotional maturity and motivation than their male counterparts. These learners often have slightly less technical confidence (not the same as a lack of ability) but also slightly better study habits and general core skills like communication and organisation. 
+
+While these three personas go some way to generalising the three main types of learner likely to enrol in the BIT, they are by no means exhaustive. Culturally speaking, IT seems to attract quite a homogenous group of people, and this means that it is even more important to recognise cultural minorities present in a given cohort. IT and computer science often has its own strong cultural identity (Waite, Jackson and Leonardi, 2004) with which learners are already beginning to identify when they arrive.
+
+*Stakeholders*
+
+
+### Bibliography 
+Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. ACM SIGCSE Bulletin, 36(1), 12. http://dx.doi.org/10.1145/1028174.971308
