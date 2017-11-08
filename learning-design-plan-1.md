@@ -42,6 +42,7 @@ Milestones:
 
 #### e. Stakeholders and analysis of learners
 *Learner profiles*
+
 An analysis of learners' needs could begin with outlining sketches of potential learner personas. There following are descriptions of the kinds of learners typical to the Bachelor of IT, and illustrate their diversity.
 
 Persona 1: Male school leaver or recent IT certificate student, late teens. This kind of student is very interested in computers in general, and often specifically in hardware and gaming. May or may not have any idea what it might be like to be an IT professional. Sometimes this kind of learner is not absolutely sure about whether they want to enter the IT industry, but has elected to study IT because computers are their main hobby. Mostly from the "kiwi" cultural background (i.e. New Zealand European ethnicity) but 1 or 2% are from other ethnic backgrounds, e.g. Maori and Pacific Island, Asian, Middle Eastern cultures.
@@ -53,6 +54,7 @@ Persona 3: Female school leaver, late teens, or female learner coming from other
 While these three personas go some way to generalising the three main types of learner likely to enrol in the BIT, they are by no means exhaustive. Culturally speaking, IT seems to attract quite a homogenous group of people, and this means that it is even more important to recognise cultural minorities present in a given cohort. IT and computer science often has its own strong cultural identity (Waite, Jackson and Leonardi, 2004) with which learners are already beginning to identify when they arrive. This indicates that while the learners do have a diverse set of needs, they also have a potential set of needs in common.
 
 *Stakeholders*
+
 Teachers: This course feeds into all further aspects of the BIT, and lays the foundation of the core skills necessary in any branch of the profession. It is important to consult with teachers of other courses to identify any gaps in professional skill-sets that could be catered for in this course.
 
 Managers: There are two sets of stakeholders who could be categorised here—tertiary education managers and future employers. As the former are covered in the last part of this section, this part discusses the needs of potential employers and direct managers of graduates of this programme. Feedback from these stakeholders, such as from PEAC meetings, suggests that professional skills are the most important focus of entry-level IT positions. These are slow to learn on the job in comparison with technical skills, which can be picked up quickly with the right training. Foremost of the skills needed is the ability to self-teach (i.e. life-long learning).
