@@ -21,10 +21,10 @@ Despite varying ethnic and social backgrounds (and despite the IT industry being
 The aim is to introduce more collaborative, experiential learning into Professional Practice for Information Technology in order to better prepare learners both for future courses in the degree and for high performance as recent graduates in the workforce.
 
 Objectives:
-1. Give learners hands-on experience working together in teams
-2. Use real, industry-standard communication and collaboration tools
-3. Equip learners with the skills necessary to make decisions and measure their own performance
-4. Encourage independent thinking, self-motivation and self-management
+1. Prepare instructions, resources and assessment material for utilizing team projects, in a course schedule.
+2. Prepare lesson plans to incorporate educational technologies into workflows.
+3. Develop learning activities and formative assessments with peer assessment and self-assessment elements.
+4. Design summative assessments using portfolios.
 
 #### d. Milestones/deliverables
 *Objective 1 deliverables:* a course schedule that includes two or more team projects which allow learners to practice the skills learnt up to that point in a practical context.
