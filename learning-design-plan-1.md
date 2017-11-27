@@ -39,7 +39,7 @@ Objectives:
 #### e. Stakeholders and analysis of learners
 
 ##### Learner profiles
-An analysis of learners' needs could begin with outlining sketches of potential learner personas. There following are descriptions of the kinds of learners typical to the Bachelor of IT, and illustrate their diversity.
+An analysis of learners' needs could begin with outlining sketches of potential learner personas. The following are descriptions of the kinds of learners typical to the Bachelor of IT, and illustrate their diversity.
 
 **Persona 1:** Male school leaver or recent IT certificate student, late teens. This kind of student is very interested in computers in general, and often specifically in hardware and gaming. May or may not have any idea what it might be like to be an IT professional. Sometimes this kind of learner is not absolutely sure about whether they want to enter the IT industry, but has elected to study IT because computers are their main hobby. Mostly from the "kiwi" cultural background (i.e. New Zealand European ethnicity) but 1 or 2% are from other ethnic backgrounds, e.g. Maori and Pacific Island, Asian, Middle Eastern cultures.
 
