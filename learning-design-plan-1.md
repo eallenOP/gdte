@@ -1,3 +1,5 @@
+<style>div>p{margin-left:2em;text-indent:-2em;}</style>
+
 # Learning Design for Teaching in a Tertiary Context—Elise Allen
 ## Assessment Task 1: The Learning Design Plan
 
