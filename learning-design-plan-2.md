@@ -7,7 +7,6 @@
 The learning design model on which this learning strategy is based is collaborative experiential learning. Kolb describes experiential learning as a process in which learning happens in a practical, shared way through iterations in which learners can modify their approach to problems according to experience gained through previous iterations and reflection (Kolb, 2015). In order to apply this in Professional Practice for IT, learners need to have the opportunity to undertake communicating and collaborating in teams more than once, with the opportunity to reflect on their performance at the end of each attempt with a view to improving their performance next time. Reflection is the key component here as it allows the experience to be converted to learning (Kolb, 2015). This can be tied to an educational trend of computing for social good, as the subject of the group work can be anything so long as it's relevant to IT (Goldweber et al., 2013). 
 
 #### g. Learning strategy
-
 The learning strategy will work like this: learners will be put into teams and given a social problem to solve, for example to reunite families after a natural disaster (Goldweber et al., 2013), and will work toward producing a report and presentation about their solutions. These deliverables are marked formatively, although this is part of a different learning strategy and beyond the scope of this paper. The point of this team activity is to learn team processes such as time management, task division and team communication, all of which are taught in a learning module that takes place before the team work exercise.
 
 At the end of the team work, each learner will write their own reflection on what went well during the exercise and what could be improved, including their analysis of what they learnt and what they still need to learn about team work. These reflections and other evidence of professional performance will form the assessment portfolio. After another module of learning in which more skills and knowledge about group work are explicitly taught, for example how to deal with conflict, new teams are given a new problem and are to produce another report and presentation about their solution. 
@@ -19,7 +18,6 @@ At the end of the team work, each learner will write their own reflection on wha
 
 
 #### h. Activities
-
 **Learning outcomes:**
 1. Select, learn and use appropriate technology to communicate and solve problems.
 2. Write technical documents for the IT environment, following professional standards.
@@ -27,10 +25,13 @@ At the end of the team work, each learner will write their own reflection on wha
 
 This learning strategy will be mostly working with LOs 1 and 3. The correlation with LO 2 in the deliverable aspect of the activities is intended as well, and is to some degree related to experiential learning in that learners are assessed on their own individual reports and presentations later in the course.
 
-i. The main activity is the team exercise described above in which learners work in a team to solve a social problem.
+i. The main activity, which covers both LOs 1 and 3, is the team exercise described above in which learners work in a team to solve a social problem.
 ii. The supplemental activities include those done in the modules of learning which take place before each iteration of the main activity. These include, for example, case study discussions of conflict scenarios, making individual time management plans and a worksheet in which learners break down a large task into smaller parts which can be delegated to team members.
 
 #### i. Content
+i. The main sources of content are Moodle and an integrated One Note Class Notebook. Of course, with experiential learning as a strategy, much of the content is generated during the learning activity itself and as part of the reflection (Kolb, 2015). Learning that happens during the preceeding modules is therefore, in some ways, supplementary.
+ii. Content is delivered via several formats and media. For example, TED talk videos, content written by the lecturer on Moodle and in the Class Notebook, readings online and face-to-face discussion in class. 
+iii. As learning outcome 1 specifies using technology as a fundamental part of the course, obviously there is a large digital component to this learning strategy. Learners will collaborate like the IT industry does, using platforms like GitHub, Slack and shared cloud applications such as Google Drive and Office 365. Learners are also encouraged to use online project management software such as Trello. 
 
 #### j. Communication/interaction
 
