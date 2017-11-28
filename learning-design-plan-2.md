@@ -1,5 +1,3 @@
-<style>span>p{margin-left:2em;text-indent:-2em;}</style>
-
 # Learning Design for Teaching in a Tertiary Context—Elise Allen
 ## Assessment Task 1: The Learning Design Plan
 
@@ -47,7 +45,7 @@ Interaction with the lecturer will also be both synchronous and asynchronous, in
 
 
 ### References
-<span>
+<span  style="text-indent:-2em; margin-left:2em;">
 
 Goldweber, M., Barr, J., Clear, T., Davoli, R., Mann, S., Patitsas, E., & Portnoff, S. (2013). A framework for enhancing the social good in computing education. ACM Inroads, 4(1), 58. http://doi.org/10.1145/2432596.2432616
 
