@@ -10,7 +10,7 @@ The learning design model on which this learning strategy is based is collaborat
 
 The learning strategy will work like this: learners will be put into teams and given a social problem to solve, for example to reunite families after a natural disaster (Goldweber et al., 2013), and will work toward producing a report and presentation about their solutions. These deliverables are marked formatively, although this is part of a different learning strategy and beyond the scope of this paper. The point of this team activity is to learn team processes such as time management, task division and team communication, all of which are taught in a learning module that takes place before the team work exercise.
 
-At the end of the team work, each learner will write their own reflection on what went well during the exercise and what could be improved, including their analysis of what they learnt and what they still need to learn about team work. After another module of learning in which more skills and knowledge about group work are explicitly taught, for example how to deal with conflict, new teams are given a new problem and are to produce another report and presentation about their solution. 
+At the end of the team work, each learner will write their own reflection on what went well during the exercise and what could be improved, including their analysis of what they learnt and what they still need to learn about team work. These reflections and other evidence of professional performance will form the assessment portfolio. After another module of learning in which more skills and knowledge about group work are explicitly taught, for example how to deal with conflict, new teams are given a new problem and are to produce another report and presentation about their solution. 
 
 | Activities                | Content                   | Interaction               | Assessment                |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
@@ -26,6 +26,9 @@ At the end of the team work, each learner will write their own reflection on wha
 3. Demonstrate professional behaviour appropriate to an IT environment.
 
 This learning strategy will be mostly working with LOs 1 and 3. The correlation with LO 2 in the deliverable aspect of the activities is intended as well, and is to some degree related to experiential learning in that learners are assessed on their own individual reports and presentations later in the course.
+
+i. The main activity is the team exercise described above in which learners work in a team to solve a social problem.
+ii. The supplemental activities include those done in the modules of learning which take place before each iteration of the main activity. These include, for example, case study discussions of conflict scenarios, making individual time management plans and a worksheet in which learners break down a large task into smaller parts which can be delegated to team members.
 
 #### i. Content
 
