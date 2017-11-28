@@ -12,6 +12,12 @@ The learning strategy will work like this: learners will be put into teams and g
 
 At the end of the team work, each learner will write their own reflection on what went well during the exercise and what could be improved, including their analysis of what they learnt and what they still need to learn about team work. After another module of learning in which more skills and knowledge about group work are explicitly taught, for example how to deal with conflict, new teams are given a new problem and are to produce another report and presentation about their solution. 
 
+| Activities                | Content                   | Interaction               | Assessment                |
+| ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+| Produce a report and presentation  | Solving a social problem | Team collaboration and communication | Professional portfolio |
+| The actual learning strategy-related activity is a group work exercise in which the deliverables are merely a means to an end | The content related to the learning strategy is the team work itself, which is initially taught in modules which each end in the experiential exercise | The interaction between learners is the important part as this is what the focus of the reflection is - during this process the lecturer acts as a kind of coach to keep learners focussed on the real content (i.e. the team processes, not the "subject" of the team work) | The assessment is individually marked: each learner is to put together a portfolio of evidence in which they demonstrate their professionalism in team processes |
+
+
 #### h. Activities
 
 #### i. Content
