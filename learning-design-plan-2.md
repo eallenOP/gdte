@@ -26,16 +26,23 @@ At the end of the team work, each learner will write their own reflection on wha
 This learning strategy will be mostly working with LOs 1 and 3. The correlation with LO 2 in the deliverable aspect of the activities is intended as well, and is to some degree related to experiential learning in that learners are assessed on their own individual reports and presentations later in the course.
 
 i. The main activity, which covers both LOs 1 and 3, is the team exercise described above in which learners work in a team to solve a social problem.
+
 ii. The supplemental activities include those done in the modules of learning which take place before each iteration of the main activity. These include, for example, case study discussions of conflict scenarios, making individual time management plans and a worksheet in which learners break down a large task into smaller parts which can be delegated to team members.
 
 #### i. Content
 i. The main sources of content are Moodle and an integrated One Note Class Notebook. Of course, with experiential learning as a strategy, much of the content is generated during the learning activity itself and as part of the reflection (Kolb, 2015). Learning that happens during the preceeding modules is therefore, in some ways, supplementary.
+
 ii. Content is delivered via several formats and media. For example, TED talk videos, content written by the lecturer on Moodle and in the Class Notebook, readings online and face-to-face discussion in class. 
+
 iii. As learning outcome 1 specifies using technology as a fundamental part of the course, obviously there is a large digital component to this learning strategy. Learners will collaborate like the IT industry does, using platforms like GitHub, Slack and shared cloud applications such as Google Drive and Office 365. Learners are also encouraged to use online project management software such as Trello. 
 
 #### j. Communication/interaction
+As the learning strategy is collaborative experiential learning, learners will interact with each other as the fundamental focus of the learning design. This is in order to practice team processes, for example learners will have discussions to come to agreements about task delegation, time management and communication channels. Once these are in place, learners will interact with each other through their chosen channels, which should be both synchronous (organising group meetings) and asynchronous (having a Slack channel) and will work together to ensure all the work is completed.
+
+Interaction with the lecturer will also be both synchronous and asynchronous, in the form of face-to-face class time, class Slack channel messages and communications on group project repositories in GitLab. For example, if a team is not recording their task breakdown anywhere clearly, the lecturer might add a GitLab issue to their project that suggests that they do so.
 
 #### k. Assessment
+
 
 ### References
 
