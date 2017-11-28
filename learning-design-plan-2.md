@@ -20,6 +20,13 @@ At the end of the team work, each learner will write their own reflection on wha
 
 #### h. Activities
 
+**Learning outcomes:**
+1. Select, learn and use appropriate technology to communicate and solve problems.
+2. Write technical documents for the IT environment, following professional standards.
+3. Demonstrate professional behaviour appropriate to an IT environment.
+
+This learning strategy will be mostly working with LOs 1 and 3. The correlation with LO 2 in the deliverable aspect of the activities is intended as well, and is to some degree related to experiential learning in that learners are assessed on their own individual reports and presentations later in the course.
+
 #### i. Content
 
 #### j. Communication/interaction
