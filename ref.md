@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <title>References</title>
     <link rel="stylesheet" href="main.css">
@@ -13,4 +11,3 @@
     <p>The University of Texas at Austin. (2017). Experiential learning. Retrieved from https://facultyinnovate.utexas.edu/experiential-learning.
     <p>Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. <em>ACM SIGCSE Bulletin</em>, 36(1), 12. Doi: 10.1145/1028174.971308</p>
 </body>
-</html>
