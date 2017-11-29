@@ -1,5 +1,6 @@
 # ldttc
-Learning design for teaching in a tertiary context assessments.
+Learning design for teaching in a tertiary context assessments.  
+*Author: Elise Allen*
 
 ## Assessment task 1
 [Part 1](learning-design-plan-1.md)  
