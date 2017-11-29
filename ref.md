@@ -9,4 +9,3 @@
     <p>Lucas, B. (2014). Vocational pedagogy: what it is, why it matters and what we can do about it. Retrieved from http://www.unevoc.unesco.org/fileadmin/up/vocational_pedagogy_bill_lucas_unesco-unevoc_30april.pdf </p>
     <p>The University of Texas at Austin. (2017). Experiential learning. Retrieved from https://facultyinnovate.utexas.edu/experiential-learning.
     <p>Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. <em>ACM SIGCSE Bulletin</em>, 36(1), 12. Doi: 10.1145/1028174.971308</p>
-</body>
