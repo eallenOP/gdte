@@ -57,7 +57,3 @@ While these three personas go some way to generalising the three main types of l
 **IT Industry:** The industry in general has undergone something of a cultural shift in the 21st Century. While computer software and hardware used to be made by technical people for other technical people, the market for computing technology is now a lot more general. It is therefore more important than ever for the IT industry to be able to bridge the gap and ensure that their products and services, including the workforce itself, is as accessible to the general populous as possible. It is no longer enough for IT professionals just to be technical: they must also be personable.
 
 **Tertiary sector:** Like the Information Technology industry, the Tertiary Education sector is constantly evolving. New modes of assessment, a shift in classroom focus and trends towards sector-wide concerns such as sustainability all need to be taken into account when designing this course. It is important that the learning design has flexibility built in so that new methods and innovations can easily be applied in the future, as well as aligning with Otago Polytechnic organisational strategies. Couple this with concrete requirements from NZQA and TEC, and expectations of meeting specified completion and retention rates and it becomes clear that the learning design must be able to meet a very wide gamut of needs.
-
-### References 
-
-Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. *ACM SIGCSE Bulletin*, 36(1), 12. Doi: 10.1145/1028174.971308

@@ -42,15 +42,3 @@ As the learning strategy is collaborative experiential learning, learners will i
 Interaction with the lecturer will also be both synchronous and asynchronous, in the form of face-to-face class time, class Slack channel messages and communications on group project repositories in GitLab. For example, if a team is not recording their task breakdown anywhere clearly, the lecturer might add a GitLab issue to their project that suggests that they do so.
 
 #### k. Assessment
-
-
-### References
-Goldweber, M., Barr, J., Clear, T., Davoli, R., Mann, S., Patitsas, E., & Portnoff, S. (2013). A framework for enhancing the social good in computing education. ACM Inroads, 4(1), 58. http://doi.org/10.1145/2432596.2432616
-
-Hung, D. (2001). Theories of learning and computer-mediated instructional technologies. *Educational Media International, 38*(4), 281-287. 
-
-Kolb, D. A. (2015). *Experiential learning: Experience as the source of learning and development*. Pearson Education, Inc.
-
-Lucas, B. (2014). Vocational pedagogy: what it is, why it matters and what we can do about it. Retrieved from http://www.unevoc.unesco.org/fileadmin/up/vocational_pedagogy_bill_lucas_unesco-unevoc_30april.pdf 
-
-The University of Texas at Austin. (2017). Experiential learning. Retrieved from https://facultyinnovate.utexas.edu/experiential-learning.
