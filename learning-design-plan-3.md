@@ -11,7 +11,3 @@
 
 #### o. Evaluation
 
-### References
-<span  style="text-indent:-2em; margin-left:2em;">
-
-</span>
