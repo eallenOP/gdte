@@ -60,8 +60,8 @@ While these three personas go some way to generalising the three main types of l
 
 ### References 
 
-<span style="text-indent:-2em; margin-left:2em">
+<p style="text-indent:-2em; margin-left:2em">
 
 Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. *ACM SIGCSE Bulletin*, 36(1), 12. Doi: 10.1145/1028174.971308
 
-</span>
+</p>
