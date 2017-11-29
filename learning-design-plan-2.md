@@ -37,11 +37,15 @@ ii. Content is delivered via several formats and media. For example, TED talk vi
 iii. As learning outcome 1 specifies using technology as a fundamental part of the course, obviously there is a large digital component to this learning strategy. Learners will collaborate like the IT industry does, using platforms like GitHub, Slack and shared cloud applications such as Google Drive and Office 365. Learners are also encouraged to use online project management software such as Trello. 
 
 #### j. Communication/interaction
-As the learning strategy is collaborative experiential learning, learners will interact with each other as the fundamental focus of the learning design. This is in order to practice team processes, for example learners will have discussions to come to agreements about task delegation, time management and communication channels. Once these are in place, learners will interact with each other through their chosen channels, which should be both synchronous (organising group meetings) and asynchronous (having a Slack channel) and will work together to ensure all the work is completed.
+As the learning strategy is collaborative experiential learning, learners will interact with each other as the fundamental focus of the learning design. This is in order to practice team processes, for example learners will have discussions to come to agreements about task delegation, time management and communication channels. Once these are in place, learners will interact with each other through their chosen channels, which should be both synchronous (e.g. organising group meetings) and asynchronous (e.g. having a Slack channel) and will work together to ensure all the work is completed.
 
 Interaction with the lecturer will also be both synchronous and asynchronous, in the form of face-to-face class time, class Slack channel messages and communications on group project repositories in GitLab. For example, if a team is not recording their task breakdown anywhere clearly, the lecturer might add a GitLab issue to their project that suggests that they do so.
 
 #### k. Assessment
+i. Formative assessment will be used informally to give feedback about group processes, which will occur as a kind of verbal debrief session at the end of an experiential learning activity. This will therefore be guided peer feedback, where the lecturer adds to the discussion where needed. Summative assessment will follow on from this when learners write reflections and gather evidence of team work performance for their portfolios. It might also be wise to include formative assessment of portfolio content on a regular basis to ensure learners are on the right track.
 
+ii. The activities contribute to the assessment portfolios as they are the material about which the evidence and reflection is written.
+
+iii. As outlined in (i), feedback includes peer (in discussions), self (in written reflections) and lecturer (as formative assessment marking).
 
 [References](ref.md)
