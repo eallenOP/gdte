@@ -42,3 +42,6 @@ As the learning strategy is collaborative experiential learning, learners will i
 Interaction with the lecturer will also be both synchronous and asynchronous, in the form of face-to-face class time, class Slack channel messages and communications on group project repositories in GitLab. For example, if a team is not recording their task breakdown anywhere clearly, the lecturer might add a GitLab issue to their project that suggests that they do so.
 
 #### k. Assessment
+
+
+[References](ref.md)
