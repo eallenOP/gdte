@@ -6,3 +6,6 @@ Learning design for teaching in a tertiary context assessments.
 [Part 2](learning-design-plan-2.md)  
 [Part 3](learning-design-plan-3.md)  
 [References](ref.html)
+
+## Assessment task 2
+*Under construction*
