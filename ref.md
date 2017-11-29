@@ -1,5 +1,4 @@
 <head>
-    <title>References</title>
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
