@@ -11,4 +11,4 @@
 
 #### o. Evaluation
 
-[References](ref.md) | [< Part 2](learning-design-plan-2.html) | [Home](READEME.html)
+[References](ref.md) | [< Part 2](learning-design-plan-2.html) | [Home](index.html)
