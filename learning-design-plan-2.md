@@ -48,4 +48,4 @@ ii. The activities contribute to the assessment portfolios as they are the mater
 
 iii. As outlined in (i), feedback includes peer (in discussions), self (in written reflections) and lecturer (as formative assessment marking).
 
-[References](ref.md)
+[References](ref.md) | [Part 1](learning-design-plan-1.html) | [Part 3](learning-design-plan-3.html)
