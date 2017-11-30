@@ -60,4 +60,4 @@ While these three personas go some way to generalising the three main types of l
 
 [References](ref.md)
 
-[Home](../README.html)  [Part 2](learning-design-plan-2.html)
+[Home](README.html) | [Part 2](learning-design-plan-2.html)
