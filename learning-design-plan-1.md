@@ -58,4 +58,4 @@ While these three personas go some way to generalising the three main types of l
 
 **Tertiary sector:** Like the Information Technology industry, the Tertiary Education sector is constantly evolving. New modes of assessment, a shift in classroom focus and trends towards sector-wide concerns such as sustainability all need to be taken into account when designing this course. It is important that the learning design has flexibility built in so that new methods and innovations can easily be applied in the future, as well as aligning with Otago Polytechnic organisational strategies. Couple this with concrete requirements from NZQA and TEC, and expectations of meeting specified completion and retention rates and it becomes clear that the learning design must be able to meet a very wide gamut of needs.
 
-[References](ref.md) | [Home](README.html) | [Part 2](learning-design-plan-2.html)
+[References](ref.md) | [Home](README.html) | [Part 2 >](learning-design-plan-2.html)
