@@ -16,7 +16,9 @@ ii. The milestones as outlined in [Part 1](learning-design-plan-1.html) mostly c
 
 Thus, the first milestone to define in this plan is the assessment, or determining acceptable evidence (Bowen, 2017). This aligns to objective 4: designing assessments using portfolios. These must be completed before the course is delivered, so before the beginning of semester 1 2018 at the latest, but should be finished sooner so that there is time left to design the next step. This milestone will require writing an assignment brief, a rubric or marking schedule and perhaps finding or creating a model example. It also required deciding on what method will be used for hand-in and delivery of feedback (probably Moodle).
 
+Next, aligning with objective 1, it would be a good idea to sketch out a course schedule. This will include the broad topic areas to be covered in each week of the course, and then a short list of topics for each session. This ensures that all the content and activities will fit into the semester. This will need to be completed by the end of January.
 
+Lastly, aligning with objectives 2 and 3, lessons plans and activities probably need to be developed in parallel. This includes formative peer- and self-assessment opportunities and designing the collaborative experiential activities themselves. 
 
 #### n. Resources
 
