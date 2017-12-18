@@ -23,7 +23,7 @@ The aim is to introduce more collaborative, experiential learning into a Profess
 Objectives:
 1. Prepare instructions, resources and assessment material for utilizing team projects, in a course schedule.
 2. Prepare lesson plans to incorporate educational technologies into workflows.
-3. Develop learning activities and formative assessments with peer assessment and self-assessment elements.
+3. Develop learning module activities and formative assessments with peer assessment and self-assessment elements.
 4. Design summative assessments using portfolios (using the technologies from objective 2).
 
 #### d. Milestones/deliverables
