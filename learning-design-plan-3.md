@@ -38,5 +38,10 @@ The main risk is resource availability changes. This might include workload chan
 Resources needed to implement this plan are quite minimal. The time required for activity design is already a part of normal weekly preparation time. Technology resources already exist: the Moodle shell is in place, the One Note Class Notebook is available (set up for Learning in a Digital Age) and there are no physical materials required beyond a classroom and computers. Some learners will BYOD, but this course is always taught in a computer lab anyway.
 
 #### o. Evaluation
+i. The evaluation for this plan will measure learners' attitude towards working in teams as well as the uptake of team work processes and workflows.
+
+ii. Potential participants in the evaluation process will include the learners themselves, colleagues who teach those students subsequently and, ultimately, people who employ our graduates in the IT industry.
+
+iii. Data collection methods will include learner written reflection (collected as part of their assessment), course surveys and face-to-face focus groups towards the end of the semester. In the first half of the following semester, colleagues who are teaching the same cohort will be asked to provide either written or verbal feedback as to the evaluation factors in (i) above. These data collection methods are appropriate to the factors under consideration as they are focussed on ascertaining information about attitide, which is best related in prose or spoken word and is difficult to measure quantitavely. In order to measure uptake of processes and workflows, the best method of data collection will be observation in the classroom or workplace.
 
 [References](ref.md) | [< Part 2](learning-design-plan-2.html) | [Home](index.html)
