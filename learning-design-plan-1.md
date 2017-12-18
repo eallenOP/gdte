@@ -27,14 +27,13 @@ Objectives:
 4. Design summative assessments using portfolios (using the technologies from objective 2).
 
 #### d. Milestones/deliverables
-*Objective 1 deliverables:* a course schedule that includes two or more team projects which allow learners to practice the skills learnt up to that point in a practical context. **Milestone: 20 Dec 2017**
+*Objective 1 deliverables:* a course schedule that includes two or more team projects which allow learners to practice the skills learnt up to that point in a practical context.
 
-*Objective 2 deliverables:* lesson plans to introduce tools such as git and GitLab and the associated professional workflows. **Milestone: Jan 2018**
+*Objective 2 deliverables:* lesson plans to introduce tools such as git and GitLab and the associated professional workflows. 
 
-*Objective 3 deliverables:* formative assessments with peer assessment and self-assessment elements, plus class activities which are flexible enough to allow learners to decide on their own approaches to problems (and to be able to describe the reasons for those decisions). **Milestone: early Feb 2018**
+*Objective 3 deliverables:* formative assessments with peer assessment and self-assessment elements, plus class activities which are flexible enough to allow learners to decide on their own approaches to problems (and to be able to describe the reasons for those decisions).
 
-*Objective 4 deliverables:* a flexible, portfolio-style assessment which rewards independent and critical thinking. **Milestone: late Feb 2018**
-
+*Objective 4 deliverables:* a flexible, portfolio-style assessment which rewards independent and critical thinking.
 
 #### e. Stakeholders and analysis of learners
 
