@@ -1,5 +1,5 @@
 # Learning Design for Teaching in a Tertiary Context—Elise Allen
-## Assessment Task 1: The Learning Design Plan
+## Assessment Task 2: Critical Reflection On The Learning Design Plan
 
 ### Step 1: Reflectively describe the learning design plan
 1. Creating the plan
@@ -13,15 +13,5 @@
     4. Factors concerning sustainable learning and teaching impacted a lot on my learning design plan as this is a key educational trend.
 3. Information gathered
 
-### Step 2: Reflectively analyse the learning design plan
-1. Justification for decisions
-2. Lessons learnt
-    1. key factors of the tertiary education context
-    2. Learner diversity and culture
-    3. Educational trends and theory
-    4. Sustainable learning and teaching
-   
-### Step 3: Reflect for action
-1. Actions for future teaching practice
-2. Liklihod of achieving objectives
-3. Ensuring sustainability and responsiveness
+
+
