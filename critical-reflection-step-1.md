@@ -13,5 +13,4 @@
     4. Factors concerning sustainable learning and teaching impacted a lot on my learning design plan as this is a key educational trend. It's also central to the Otago Polytechnic strategic framework (Otago Polytechnic, 2013). These factors include sustainable development, such as learning design that values diversity, and taking a "humanistic approach to education" (UNESCO, 2015).
 3. Information gathered to inform the plan included resources provided in the course material on Moodle, such as some of the literature cited above, as well as feedback from colleagues gained from class discussions and feedback from other members of the BIT teaching team.
 
-
-
+[References](ref.md) | [Home](index.html) | [Step 2 >](critical-reflection-step-2.html)
