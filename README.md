@@ -9,6 +9,6 @@ Learning design for teaching in a tertiary context assessments.
 [References](ref.html)
 
 ## Assessment task 2
-[Step 1](critical-reflection-step-1.md)
-[Step 2](critical-reflection-step-2.md)
-[Step 3](critical-reflection-step-3.md)
+[Step 1](critical-reflection-step-1.md)  
+[Step 2](critical-reflection-step-2.md)  
+[Step 3](critical-reflection-step-3.md)  
