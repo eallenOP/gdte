@@ -10,3 +10,4 @@
     4. Sustainable learning and teaching: as mentioned in the previous step, creating this learning design plan taught me about the importance of "taking a humanistic approach to education" (UNESCO, 2015), which means we are to be guide by "guided by environmental stewardship and by concern for peace, inclusion and social justice". This relates to the above point about learner diversity because it includes avoiding discrimination in learning design - a challenging undertaking.
 
     [References](ref.md) | [< Part 1](critical-reflection-step-1.html) | [Part 3 >](critical-reflection-step-3.html)
+    
