@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Learning Design for Teaching in a Tertiary Context—Elise Allen
 ## Assessment Task 2: Critical Reflection On The Learning Design Plan
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # ldttc
 Learning design for teaching in a tertiary context assessments.  
 *Author: Elise Allen*
