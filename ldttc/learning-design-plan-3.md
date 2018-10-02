@@ -47,4 +47,4 @@ ii. Potential participants in the evaluation process will include the learners t
 
 iii. Data collection methods will include learner written reflection (collected as part of their assessment), course surveys and face-to-face focus groups towards the end of the semester. In the first half of the following semester, colleagues who are teaching the same cohort will be asked to provide either written or verbal feedback as to the evaluation factors in (i) above. These data collection methods are appropriate to the factors under consideration as they are focussed on ascertaining information about attitide, which is best related in prose or spoken word and is difficult to measure quantitavely. In order to measure uptake of processes and workflows, the best method of data collection will be observation in the classroom or workplace.
 
-[References](ref.md) | [< Part 2](learning-design-plan-2.html) | [Home](index.html)
+[References](ref.html) | [< Part 2](learning-design-plan-2.html) | [Home](index.html)

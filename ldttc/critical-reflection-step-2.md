@@ -12,5 +12,5 @@ layout: default
     3. Educational trends and theory: the main educational theory I leant about during the creation of my plan was experiential learning (Kolb, 2015), however it was also important to form an understanding of the relationships between the various theories of learning as summarised by Hung (2001), such as behaviourism, constructivism, cognitivism and social constructivism.
     4. Sustainable learning and teaching: as mentioned in the previous step, creating this learning design plan taught me about the importance of "taking a humanistic approach to education" (UNESCO, 2015), which means we are to be guide by "guided by environmental stewardship and by concern for peace, inclusion and social justice". This relates to the above point about learner diversity because it includes avoiding discrimination in learning design - a challenging undertaking.
 
-    [References](ref.md) | [< Part 1](critical-reflection-step-1.html) | [Part 3 >](critical-reflection-step-3.html)
+    [References](ref.html) | [< Part 1](critical-reflection-step-1.html) | [Part 3 >](critical-reflection-step-3.html)
     
