@@ -1,4 +1,14 @@
-p {
+p.ref {
     margin-left: 2em;
     text-indent: -2em;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul {
+    padding: 0 !important;
 }
