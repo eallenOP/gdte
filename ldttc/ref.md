@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="ref">
-    <h3>References</h3>
+    <h1>References</h1>
     <p>Bowen, Ryan S., (2017). Understanding by Design. Vanderbilt University Center for Teaching. Retrieved from https://cft.vanderbilt.edu/understanding-by-design/.</p>
     <p>Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. <em>Educational researcher, 18</em>(1), 32-42. Retrieved from http://www.jstor.org/stable/1176008</p>
     <p>Goldweber, M., Barr, J., Clear, T., Davoli, R., Mann, S., Patitsas, E., & Portnoff, S. (2013). A framework for enhancing the social good in computing education. <em>ACM Inroads, 4</em>(1), 58. Doi: <a href="https://facultyinnovate.utexas.edu/experiential-learning">10.1145/2432596.2432616</a></p>
