@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<head>
-    <link rel="stylesheet" href="main.css">
-</head>
-<body>
+<div class="ref">
     <h3>References</h3>
     <p>Bowen, Ryan S., (2017). Understanding by Design. Vanderbilt University Center for Teaching. Retrieved from https://cft.vanderbilt.edu/understanding-by-design/.</p>
     <p>Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. <em>Educational researcher, 18</em>(1), 32-42. Retrieved from http://www.jstor.org/stable/1176008</p>
@@ -20,3 +17,4 @@ layout: default
     <p>The University of Texas at Austin. (2017). Experiential learning. Retrieved from https://facultyinnovate.utexas.edu/experiential-learning.</p>
     <p>Vygotsky, Lev (1978). <em>Mind in Society</em>. London: Harvard University Press.</p>
     <p>Waite, W., Jackson, M., & Leonardi, P. (2004). Student culture vs group work in computer science. <em>ACM SIGCSE Bulletin</em>, 36(1), 12. Doi: 10.1145/1028174.971308</p>
+</div>
