@@ -6,11 +6,11 @@ layout: default
 
 ## Definition of learning
 
-Teaching and learning is a process of guided discovery, a shared process where skills and knowledge pass between people. Sometimes this begins with a relationship of one-way dependence with the aim of increasing independence at a manageable pace, like gradually removing training wheels when learning to ride a bike. Learning can also happen in a group or network with no specified teacher role, knowledge being created by the sharing of ideas. 
+Teaching and learning is a process of guided discovery, a shared process where skills and knowledge pass between people. As noted by Northcote and Featherston (2006), teaching and learning are becoming increasingly intertwined, moving away from the traditional uni-directional passage of knowledge. Sometimes learning may begin with a relationship of one-way dependence with the aim of increasing independence at a manageable pace, like gradually removing training wheels when learning to ride a bike. Learning can also happen in a group or network with no specified teacher role, knowledge being created by the sharing of ideas. 
 
 ## Definition of teaching
 
-Because I come from a background of training, I tend to view my role a bit like a coach or mentor, helping people to discover knowledge for themselves and building learners’ skills by providing opportunities for practice, feedback and improvement. To achieve this, I like to include a lot of experiential learning and opportunity for reflection.
+Because I come from a background of youth adventure training, I tend to view my role a bit like a coach or mentor, helping people to discover knowledge for themselves and building learners’ skills by providing opportunities for practice, feedback and improvement. To achieve this, I like to include a lot of experiential learning and opportunity for reflection. My own experiences as a learner reinforces this - I often relate to my students that when I was first learning to drive, I did not enjoy getting behind the wheel at all, but forcing myself to practice eventually made driving feel second-nature and my anxiety eventually disappeared.
 
 ## Perception of the learner
 
