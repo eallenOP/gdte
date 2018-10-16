@@ -10,7 +10,7 @@ Teaching and learning is a process of guided discovery, a shared process where s
 
 ## Definition of teaching
 
-Because I come from a background of youth adventure training, I tend to view my role a bit like a coach or mentor, helping people to discover knowledge for themselves and building learners’ skills by providing opportunities for practice, feedback and improvement. To achieve this, I like to include a lot of experiential learning and opportunity for reflection. My own experiences as a learner reinforces this - I often relate to my students that when I was first learning to drive, I did not enjoy getting behind the wheel at all, but forcing myself to practice eventually made driving feel second-nature and my anxiety eventually disappeared.
+Because I come from a background of youth adventure training, I tend to view my role a bit like a coach or mentor, helping people to discover knowledge for themselves and building learners’ skills by providing opportunities for practice, feedback and improvement. To achieve this, I like to include a lot of experiential learning and opportunity for reflection, as well as opportunity for discussion in small or large groups. My own experiences as a learner reinforces this: for example I often relate to my students that when I was first learning to drive, I did not enjoy getting behind the wheel at all, but forcing myself to practice eventually made driving feel second-nature and my anxiety eventually disappeared.
 
 ## Perception of the learner
 
