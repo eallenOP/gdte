@@ -14,13 +14,21 @@ Because I come from a background of youth adventure training, I tend to view my 
 
 ## Perception of the learner
 
+
+
 ## Student-teaching relationship 
+
+
 
 ## Teaching methods
 
-As an IT teacher, blended learning is also a natural fit for my teaching style - using the very technologies I am teaching as a part of the learning process itself. For example, when I teach GitHub, the lesson can take place within GitHub with face-to-face support at the same time.  I prefer to stay away from the idea that there is a single right way to do things or a single correct answer, instead preferring to encourage learners to use a robust decision making process and rewarding them for independent thinking. This is part of the goal of creating life long learners, rather than the traditional model of knowledge being passed from teacher to student, remembered by rote and regurgitated for the purpose of an exam.
+As an IT teacher, blended learning is also a natural fit for my teaching style — using the very technologies I am teaching as a part of the learning process itself. For example, when I teach GitHub, the lesson can take place within GitHub with face-to-face support at the same time. GitHub is a great way to leave feedback on student work in exactly the same way they would get feedback if they were, for example, developing open source software. 
+
+I prefer to stay away from the idea that there is a single right way to do things or a single correct answer, instead preferring to encourage learners to use a robust decision making process and rewarding them for independent thinking. This is part of the goal of creating life long learners, rather than the traditional model of knowledge being passed from teacher to student, remembered by rote and regurgitated for the purpose of an exam. This relates to my personal value of independence and self-reliance. I believe that the ability to make robust decisions will benefit learners well after their ability to predict "correct" answers has become obsolete in the real world. For example, the problems we are called upon to face in the IT industry are often "wicked problems" and do not have single correct solutions (Zack, 1998).
 
 ## Evaluation and impact
+
+
 
 ## Metaphors for teaching philosophy
 
