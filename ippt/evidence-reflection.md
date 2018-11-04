@@ -16,6 +16,8 @@ As my [lesson plan for oral presentation](https://github.com/eallenOP/gdte/raw/m
 ### Development of capabilities
 Kember and McNaught (2007) propose ten principles of effective tertiary teaching, the first of which is "Teaching and curriculum design need to be focused on meeting students’ future needs, implying the development in students of generic capabilities such as critical thinking, teamwork and communication skills, amongst others" (as cited in Devlin and Samarawickrema, 2010, p.113). Many examples of this principle in use are evident in my design of the Professional Practice for IT course, as shown by the simplified version of the [course blueprint](PP1%20Blueprint%20v3%202018.pdf).
 
+When I redesigned this course my aim was to identify those core capabilities that are most crucial to the IT industry as well as those that our typical students need to work on the most. In this way, the course is designed to meet the needs of learners in their future courses (this course occurs in their first semester of the degree) and also to carry through to their careers. The skills I identified as particularly important include oral and written communication skills specific to IT, for example writing technical documents, the ability to learn independently ("lifelong learners") including time management and using Google efficiently and so on. The course is organised into stages which match up to groupings of important capabilities: beginning with design thinking, then study or learning skills, followed by workflow, teamwork and project management skills both specific to IT and more general, and lastly the skills associated with presenting oneself and making a good impression, including job applications.
+
 ## Facilitation
 
 
