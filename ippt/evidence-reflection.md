@@ -14,8 +14,7 @@ One particularly good example of this is the way I design learning to help learn
 As my [lesson plan for oral presentation](https://github.com/eallenOP/gdte/raw/master/ippt/Lesson%20Plan%20PP%2012-2.docx) shows, I include a series of active exercises which start very simple and get progressively more challenging. These activities target specific presentation skills, such as the ability to think and talk at the same time, and build up to putting them all together for a small practice presentation in the next session. Reflective questions are included after the more challenging activities to encourage learners to pay attention to their qualities as a presenter.
 
 ### Development of capabilities
-Kember and McNaught (2007, cited in Devlin and Samarawickrema, 2010) propose ten principles of effective tertiary teaching, the first of which is "Teaching and curriculum design need to be focused on meeting students’
-future needs, implying the development in students of generic capabilities such as critical thinking, teamwork and communication skills, amongst others."
+Kember and McNaught (2007) propose ten principles of effective tertiary teaching, the first of which is "Teaching and curriculum design need to be focused on meeting students’ future needs, implying the development in students of generic capabilities such as critical thinking, teamwork and communication skills, amongst others" (as cited in Devlin and Samarawickrema, 2010, p.113).
 
 ## Facilitation
 
