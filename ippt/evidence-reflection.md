@@ -20,5 +20,10 @@ When I redesigned this course my aim was to identify those core capabilities tha
 
 ## Facilitation
 ### Time on task
+As part of my [teaching philosophy](teaching-philosophy.html) I mention that my main aim in facilitating learning is to curate opportunities to practice skills and apply knowledge. Chickering and Gamson's (1987) fifth principle of good practice is to emphasise time on task because "Time plus energy equals learning" (p.4). Thus, a lot of the facilitating I do in the classroom revolves around supporting these experiential practice sessions. The course blueprint mentioned above shows a good example of this in practice, where several sessions are set aside at the end of each stage of the course for project work that allows learners to put into practice the concepts and skills they have learnt up to that point.
+
+This principle applies both to learning design, in terms of allowing time and designing activities for practice, and also to facilitation in terms of how this practice is directed in the classroom. As it is very difficult to show this in a video clip, the best evidence of facilitating time on task is embedded within my teaching philosophy in the metaphor of teacher as coach. In this metaphor, I explain that learners are like a team of athletes, who attend practice sessions and run drills designed to hone particular skills. During this time the coach (teacher) observes and gives feedback, all the while noting which skills will require further training. In this way, both individual and group skills can be further built upon with targeted instruction or further practice.
 
 ## Assessment
+### Enthusiasm
+See SPOT feedback.
