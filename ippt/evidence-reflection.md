@@ -29,3 +29,5 @@ Enthusiasm comes up again and again in lists of principles for effective teachin
 
 
 ## Assessment
+### Encourage independent learning
+The Australian Learning and Teaching Council criterion three for excellence in university teaching is "Approaches to assessment and feedback that foster independent learning" (Devlin and Samarawickrema, 2010, p. 117). As mentioned earlier in this task and alluded to in my teaching philosophy, learning how to learn is central to a computing career and therefore teaching how to learn independently is central to my learning design, facilitation and, in this case, assessment. This is again most evident in my first year course, Professional Practice for IT, in which the largest part of the assessment is a Professional Portfolio. As shown by the [marking schedule for this assessment](link), there is a distinct focus on rewarding independent learning, both overtly and implicitly.
