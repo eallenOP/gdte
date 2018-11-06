@@ -50,7 +50,3 @@ In terms of measurable results, the approach of delivering a carefully planned l
 
 On the other hand, the approach to teaching outlined in this philosophy document are difficult to measure, sometimes result in mixed feedback from learners (because they have to put in more effort and must genuinely participate actively in the learning process, which some find too challenging) and are often incredibly difficult to implement, especially when faced with an unmotivated cohort who are accustomed to passive learning. But real, genuine learning lasts beyond the final assessment, and this can only be truly achieved when learning is active and teaching is learner-centric. It's this long-lasting learning that I aim to achieve, regardless of how results appear on paper.
 
-## Metaphors for teaching philosophy
-
-Sherpa guiding learner up the mountain. Coach of a sports team or person.
-Teaching/coaching is about providing situations or drills to hone particular muscles (skills or knowledge). It is important for sports people to train - teams hold regular practice and the coach gives feedback to improve certain ways to approach challenges, building from basic skills to advanced patterns. Example: using GitHub to collaborate.
