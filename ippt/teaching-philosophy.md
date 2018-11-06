@@ -46,7 +46,9 @@ Other teaching methods mentioned already include encouraging discussion, curatin
 
 ## Evaluation and impact
 
+In terms of measurable results, the approach of delivering a carefully planned lecture, providing notes for study and assessing with a theory exam covering the content of the lectures for which students cram and rote learn, tends to appear to be a very successful approach to teaching: learners pass the assessment and give favourable feedback if the lectures are engaging and the subject interesting to them. However, although immediate results appear to indicate that this is a successful approach to teaching, it does not necessarily follow that learners are able (or willing) to retain what they have learnt for weeks, months or years after they pass the exam. 
 
+On the other hand, the approach to teaching outlined in this philosophy document are difficult to measure, sometimes result in mixed feedback from learners (because they have to put in more effort and must genuinely participate actively in the learning process, which some find too challenging) and are often incredibly difficult to implement, especially when faced with an unmotivated cohort who are accustomed to passive learning. But real, genuine learning lasts beyond the final assessment, and this can only be truly achieved when learning is active and teaching is learner-centric.
 
 ## Metaphors for teaching philosophy
 
