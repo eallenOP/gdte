@@ -13,6 +13,8 @@ One particularly good example of this is the way I design learning to help learn
 
 As my [lesson plan for oral presentation training](Lesson%20Plan%20PP%2013-1.pdf) shows, I include a series of active exercises which start very simple and get progressively more challenging. These activities target specific presentation skills, such as the ability to think and talk at the same time, and build up to putting them all together for a small practice presentation in the next session. Reflective questions are included after the more challenging activities to encourage learners to pay attention to their qualities as a presenter.
 
+Another example of a lesson plan showing active learning, which is typical of a lesson in the Multimedia course, is this [lesson about animation](Lesson%20Plan%20MM%2011-2.pdf) in which the learners have core concepts briefly explained to them followed immediately by putting those concepts into action.
+
 ### Development of capabilities
 Kember and McNaught (2007) propose ten principles of effective tertiary teaching, the first of which is "Teaching and curriculum design need to be focused on meeting students’ future needs, implying the development in students of generic capabilities such as critical thinking, teamwork and communication skills, amongst others" (as cited in Devlin and Samarawickrema, 2010, p.113). Many examples of this principle in use are evident in my design of the Professional Practice for IT course, as shown by the simplified version of the [course blueprint](PP1%20Blueprint%20v3%202018.pdf).
 
