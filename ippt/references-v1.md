@@ -1,10 +1,3 @@
----
-title: GDTE Elise Allen
-layout: default
----
-# References
-{::options parse_block_html="true" /}
-<div class="ref">
 Chickering, A. W., & Gamson, Z. F. (1987). Seven principles for good
 practice in undergraduate education. *American Association of Higher
 Education Bulletin*, *39*(7), 3--7.
@@ -59,5 +52,3 @@ Press.
 Zack, M., & Zack, M. H. (1998). *What Knowledge-Problems Can Information
 Technology Help to Solve?* Retrieved from
 http://aisel.aisnet.org/amcis1998/216-644-
-
-</div>
