@@ -15,34 +15,9 @@ Another example of applying my TP is including experiential learning. This happe
 
 # Integration of principles
 
-Although this is covered in more depth in the [evidence and reflection section](evidence-reflection.html), example of principles used in my teaching include using active learning techniques (example: [active participation](https://youtu.be/dJE4mdlmKck) with learners evaluating CV examples)
+Although this is covered in more depth in the [evidence and reflection section](evidence-reflection.html), example of principles used in my teaching include using active learning techniques (example: [active participation](https://youtu.be/dJE4mdlmKck) with learners evaluating CV examples), meeting students' future needs (example: revision conducted at the start of the [CV lesson](https://youtu.be/dJE4mdlmKck) shows learning design from earlier in the course) and time on task (boring to film, see photo above). The majority of every lesson I deliver is time spent on task. Very keen readers can see this for a few minutes during a [Multimedia lesson](https://youtu.be/wajj8LN3OSE?t=1703) in which a bit of coaching is also shown, but for the most part I turned off the camera to save the batteries during time on task.
 
-## CV lesson:
+# Reflection
 
-Revision - helps to solidify past knowledge and sets the scene for new material. Gives learning context and contributes to learners understanding thw 'why'.
+I would much rather spend less time talking in many of these sessions (although for some topics it can't be avoided) however, in previous iterations of the Multimedia course in particular when I tried to adhere to my TP even more, feedback from learners was that they would much prefer more passive learning and less independence. Therefore, I am trying here to find a balance that still integrates principles of effective teaching while also leaving the students with an impression of "value for money".
 
-Future needs of students - can be seen in revision section where capabilites have been a core part of the learning design. e.g. time management. 
-
-Directing people where to get more help, encouraging independent learning. Reminding people that self sufficiency includes seeking help.
-
-Giving people several options - online resources provided as well as face-to-face help. Encourage people to practice skills outside of class.
-
-Applying skills learnt in other classes to core capabilities like team work. Comparing learning workflow to industry workflow.
-
-Interactive - active participation with learners evaluating CV examples. Inclusive questioning techniques encourage people to participate, e.g. accept all answers as valid in some way, seek expansion on short answers. Use questions and answers as discussion points.
-
-Active again - rather than telling people what goes in a CV, get the class to brainstorm. Inclusive - making sure ideas are coming from a range of people. 
-
-Learning environment - controlling lighting and checking that everyone can see and hear. Speaking slowly and clearly so that ESL and deafer learners can understand. Making sure not to point, use open hand to indicate people. Use names occasionally but not so much as to single people out. 
-
-Engaging - moving around the room, making plenty of eye contact, never talking when facing the board or screen, using language and examples that learners can relate to, sharing my own thoughts to add personal impact. Appropriate use of humour without over-use or trying too hard.
-
-Time on task - set clear expectations for class activity. Activity aligns to objective of lesson. Making clear the reason for the activity. Set time limit and tell learners how long they have.
-
-Pacing - bringing lesson back in with enough time to cover the final points. 
-
-Giving chances to practice - reminding people that they have already done two presentations and all did a good job, so a final marked one isn't so scary.
-
-Introduce next lesosn topic - set expectations, relate to previous lessons, explain why it's relevant. Relate it to industry and make sure everyone is aware of why the next topic will be relevant (people are often afraid of presentations and don't understand why they have to do them).
-
-Offer last opportunity to ask questions right at the end. Remind them again that I am there to help. Always good to end with thanks.
