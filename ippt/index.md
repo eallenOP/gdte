@@ -11,7 +11,7 @@ layout: default
 
 ## Assessment 2: Teaching Observation and Self-evaluation
 [Self-Evaluation](self-evaluation.html)  
-[New! Lesson plan](Lesson%20Plan%20MM%2011-1.pdf)
+[New! Lesson plan](Lesson%20Plan%20MM%2011-1.pdf)  
 [New! Lesson video](https://youtu.be/kda9H8ZjWSU)
 
 ## Assessment 3: Professional Conversation
