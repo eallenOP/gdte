@@ -25,6 +25,8 @@ Lucas, B., Spencer, E., & Claxton, G. (2012). *How to teach vocational
 education: a theory of vocational pedagogy*.
 http://doi.org/10.13140/2.1.3424.5928
 
+Mayer, R. E. (2002). Rote Versus Meaningful Learning. *Theory Into Practice*, *41*(4), 226–232. http://doi.org/10.1207/s15430421tip4104_4
+
 McKeachie, W. J., Pintrich, P. R., Lin, Y.-G., & Smith, D. A. F. (1986).
 *Teaching and learning in the classroom: A review of the research
 literature*. Ann Arbor, MI: University of Michigan. Retrieved from
